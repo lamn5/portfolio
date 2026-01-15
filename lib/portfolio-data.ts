@@ -73,39 +73,17 @@ export const portfolioData: PortfolioData = {
     },
     {
       id: "project-2",
-      title: "Checkmark Inc. Database Management System",
+      title: "Freelance Landing Page",
       description:
-        "Full-stack retail operations management application with normalized MySQL database (3NF), RESTful API, and dynamic web interface. Features complete CRUD operations across all entities, complex JOIN queries, and analytical reporting for sales, employees, suppliers, and customers.",
-      technologies: ["Node.js", "Express", "MySQL", "Handlebars", "Tailwind CSS"],
-      link: "https://github.com/lamn5/database_webpage_checkmark_inc",
-      linkText: "View on GitHub",
-    },
-    {
-      id: "project-3",
-      title: "E-Commerce Platform",
-      description:
-        "A full-featured online store with shopping cart, payment integration, and admin dashboard. Built with modern web technologies for optimal performance.",
-      technologies: ["Next.js", "TypeScript", "Stripe", "Tailwind"],
-      link: "#",
-      linkText: "View Project",
-    },
-    {
-      id: "project-4",
-      title: "Task Management App",
-      description:
-        "Collaborative task management tool with real-time updates, drag-and-drop interface, and team features.",
-      technologies: ["React", "Firebase", "Material-UI"],
-      link: "#",
-      linkText: "View Project",
-    },
-    {
-      id: "project-5",
-      title: "Portfolio Website",
-      description:
-        "Personal portfolio site showcasing projects and skills with smooth animations and responsive design.",
-      technologies: ["Next.js", "Framer Motion", "Tailwind CSS"],
-      link: "#",
-      linkText: "View Project",
+        "Professional freelance portfolio and services landing page showcasing web development expertise. Features modern design, responsive layout, and clear call-to-actions for potential clients.",
+      technologies: [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+      ],
+      link: "https://nodster.tech/",
+      linkText: "View Live Site",
     },
   ],
 };
