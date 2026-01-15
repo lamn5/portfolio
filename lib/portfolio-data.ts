@@ -85,5 +85,20 @@ export const portfolioData: PortfolioData = {
       link: "https://nodster.tech/",
       linkText: "View Live Site",
     },
+    {
+      id: "project-3",
+      title: "Checkmark Inc. Database Management System",
+      description:
+        "Full-stack retail operations management application with normalized MySQL database (3NF), RESTful API, and dynamic web interface. Features complete CRUD operations across all entities, complex JOIN queries, and analytical reporting for sales, employees, suppliers, and customers.",
+      technologies: [
+        "Node.js",
+        "Express",
+        "MySQL",
+        "Handlebars",
+        "Tailwind CSS",
+      ],
+      link: "https://github.com/lamn5/database_webpage_checkmark_inc",
+      linkText: "View on GitHub",
+    },
   ],
 };
